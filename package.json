@@ -1,5 +1,5 @@
 {
-  "name": "my-nodejs-app",
+  "name": "meu-projeto",
   "version": "1.0.0",
   "description": "A simple Node.js app for testing Docker deployment.",
   "main": "app.js",
