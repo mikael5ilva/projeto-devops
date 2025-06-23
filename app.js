@@ -69,8 +69,9 @@ const htmlContent = `
 
     <div class="container">
         <h1>Servidor Node.js no Ar!</h1>
-        <p>Este servidor, rodando em um container Docker na AWS EC2, está funcionando perfeitamente.</p>
-        <p class="footer-note">Preciso da sua ajuda;)</p>
+        <p>Professor... preciso da sua compreensão nesse momento.</p>
+        <p>Este servidor, rodando em um container Docker na AWS EC2.</p>
+        <p class="footer-note">Preciso da sua ajuda pra não ser tão prejudicado</p>
     </div>
 
 </body>
